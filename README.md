@@ -21,7 +21,7 @@ A system detect fatigue of drivers using face feature on raspberry 3B or PC.
     
     By the way ,the major difference between the two will be discussed in the next section.
 
-* [`for_raspberry/`](for_raspberry): the main python file for raspberry3B to use.
+* [`for_ras/`](for_ras): the main python file for raspberry3B to use.
   
   * [`ras.py`](for_raspberry/ras.py): the most precise detecting method containing both the yawn detector and the blink detector on raspberry.
 
